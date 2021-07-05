@@ -1,0 +1,1 @@
+This is the final project for our Multivariate Statistics class. It consists of running MANOVA, Multivariate Multiple Regression, Linear Discriminant Analysis, and Principal Component Analysis on four different datasets in SAS, and interpreting the results. "Complete.pdf" is the full report will all analyses, figures, and SAS output. 
